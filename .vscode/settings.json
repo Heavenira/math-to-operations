@@ -1,6 +1,13 @@
 {
 "editor.tabSize": 4,
-"python.analysis.inlayHints.callArgumentNames": true,
+"python.analysis.inlayHints.callArgumentNames": false,
 "python.analysis.inlayHints.pytestParameters": true,
 "python.analysis.inlayHints.functionReturnTypes": true,
+"editor.unicodeHighlight.allowedCharacters": {
+    "‹": true,
+    "›": true,
+    "〔": true,
+	"〕": true,
+},
+"editor.stickyScroll.maxLineCount": 6,
 }
